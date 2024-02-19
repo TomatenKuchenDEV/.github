@@ -1,6 +1,18 @@
 # TomatenKuchen
 TomatenKuchen is a great multipurpose Discord bot for managing and enhancing your server.
 
+
+
+the devoloper of tomatenkuchen is nigger
+
+
+
+
+
+
+
+
+
 <p align="center">
 	<br>
 	<a href="https://tomatenkuchen.com"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" width="55" /></a>
