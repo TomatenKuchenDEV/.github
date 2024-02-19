@@ -8,6 +8,12 @@ TomatenKuchen is a great multipurpose Discord bot for managing and enhancing you
 	using <a href="https://www.npmjs.com/package/discord.js">discord.js</a> and <a href="https://tomatenkuchen.com/credits">other packages</a>.
 </p>
 
+
+<h1>Nigger</h1>
+
+
+
+
 ## Features
 
 - Modlogs and auto moderation settings
