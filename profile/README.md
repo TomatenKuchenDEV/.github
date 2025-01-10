@@ -35,8 +35,7 @@ TomatenKuchen is a great multipurpose Discord bot for managing and enhancing you
 ## Why should I choose TomatenKuchen?
 
 - It's free!
-- Almost daily updates
-- Feature requests added usually within a few hours
+- The bot is actively maintained
 
 ## Voting for the bot
 
